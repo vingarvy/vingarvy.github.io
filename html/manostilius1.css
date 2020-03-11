@@ -1,0 +1,108 @@
+h1{
+    margin-top: 10px;
+    font-size: 30pt;
+    opacity:0.8
+}
+
+body
+{
+    background-color: rgb(248, 228, 202);
+}
+
+table{
+    width:500px;
+    margin-left: 1400px;
+}
+
+th{
+    font-size:20pt;
+    text-align: right;
+}
+
+.visas
+{
+    margin-left: 400px;
+    margin-top: 50px;
+    height: 200px;
+    width: 1000px;
+    background-color:rgb(223, 192, 126);
+    padding: 1%
+}
+
+.foto
+{
+    display:block;
+    float: left;
+    background-color: lightgrey;
+    width: 200px;
+    height: 200px;
+
+}
+
+.header{
+    display:block;
+    float: left;
+    background-color: rgb(207, 181, 131);
+    width:800px;
+    height:40px;
+    color:black;
+    text-align: center;
+    font-size: 15pt;
+
+}
+
+.text
+{
+    display:block;
+    float: left;
+    background-color:rgb(207, 111, 21);
+    width:800px;
+    height:140px;
+    color:black;
+}
+
+article:hover
+{
+    opacity:0.7;
+}
+
+th:hover
+{
+    opacity:0.7;
+}
+
+a
+{
+    color:black;
+    text-decoration: none;
+}
+
+.data
+{
+    display:block;
+    float: left;
+    background-color:rgb(207, 111, 21);
+    width:800px;
+    height:20px;
+    color:black;
+}
+
+p
+{
+    font-size: 30pt;
+    margin-left:50pt;
+}
+
+.taip
+{
+    color:rgb(43, 5, 43);
+    font-size: 20pt;
+    margin-left:80pt;
+
+}
+
+.ne
+{
+    color:rgb(43, 5, 43);
+    font-size: 25pt;
+}
