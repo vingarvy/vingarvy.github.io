@@ -1,0 +1,38 @@
+.pirma
+{
+    font-size: 40pt;
+    text-align: center;
+    color: black;
+    
+}
+
+body{
+    background-color: bisque
+}
+
+.antra
+{
+    font-size: 28pt;
+    text-align: left;
+    font-weight: bold;
+}
+
+p{
+    color: rgb(109, 33, 33)
+}
+
+li{
+    font-size: 20pt;
+}
+
+#mano{
+    font-size: 15pt;
+    text-align: right;
+    color: black
+}
+
+img{
+    border: solid grey 5px;
+    height: 400px;
+    border-radius: 20%;
+}

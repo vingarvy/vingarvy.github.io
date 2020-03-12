@@ -1,0 +1,78 @@
+img {
+    opacity: 1;
+    height: 350px
+}
+
+img:hover{
+    opacity:0.8;
+    height:500px;
+    width: 800px;
+}
+
+
+.table1{
+    border:none;
+    margin:auto;
+    width:50%;
+    height:15%;
+    background-color: beige
+}
+
+.table2{
+    border:none
+    margin:left;
+    width:30%;
+    height:50%;
+    background-color: bisque;
+    font-size: 15pt;
+}
+
+td{
+    border:none;
+}
+
+.pirma{
+    font-size: 40pt;
+    text-align: center;
+    color: black;
+}
+
+body{ 
+    background-color: bisque
+}
+
+.trukme{
+    text-align: center;
+    font-size:  15pt
+}
+
+.vau{
+    font-weight: 700;
+    font-size: 18pt
+}
+
+.jap{
+    font-size: 20pt;
+    color: darkolivegreen
+}
+
+h2{
+    text-align: center;
+    font-size:40pt
+}
+
+h3{
+    font-size: 30pt;
+    color: brown
+}
+
+th{
+    font-size: 25pt;
+    color: darkred
+}
+
+#as{
+    font-size: 12pt;
+    color: darkred;
+    text-align: right;
+}
